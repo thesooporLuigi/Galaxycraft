@@ -1,12 +1,13 @@
 # Minelaxy
 
+# **PRODUCTION HAS BEEN PAUSED**
+
+## I had to FULLY erase my MacBook recently not knowing that I forgot to backup the project folder. Its gonna take a bit for me to get it back (im still recovering from this)
+
 ## **THIS MOD IS NOT (and I repeat) IS NOT AVAILABLE TO DOWNLOAD YET.** 
 
 I made this repo public so you (yes you) can read about this mod. I don't have a set release date BUT I will be making showcase videos and changes overtime :3
 
-# **PRODUCTION HAS BEEN PAUSED**
-
-## I had to FULLY erase my MacBook recently not knowing that I forgot to backup the project folder. Its gonna take a bit for me to get it back (im still recovering from this)
 
 **Not to be confused with M0uiDev's Minecraft IN Super Mario Galaxy 2 mod**
 
